@@ -4,7 +4,7 @@ Tag Reader – Smart Fitting Room System
 🏆 3rd Place Winner – Genç Beyinler Yeni Fikirler 2025
 📂 Category: Industry & Agriculture
 🧑‍🎓 İzmir University of Economics – Graduation Project
-👥 Mert Çakır, Onur Yağcı
+👥 Mert Çakı, Onur Yağcı
 🎓 Mentor: Prof. Dr. Yusuf Murat Erten
 
 Project Description
